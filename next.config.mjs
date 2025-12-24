@@ -9,7 +9,7 @@ const nextConfig = {
   // 3. Menangani sub-path di GitHub Pages
   // Karena repo kamu bernama 'my-blog-app', URL-nya nanti akan menjadi:
   // https://2400016067-max.github.io/my-blog-app/
-  basePath: '/my-blog-app',
+  basePath: '/praktikum-9-my-blog-app',
 
   // 4. Mematikan optimasi gambar bawaan Next.js
   // GitHub Pages tidak punya server untuk memproses gambar secara dinamis
